@@ -6,4 +6,4 @@ Developer settings → Personal access tokens → Tokens (classic) → Generate 
 
 토큰 만료 기간, 권한(예: repo, workflow 등)을 지정 후 생성
 
-생성된 토큰은 다시 확인할 수 없으니 복사해둡니다
+생성된 토큰은 다시 확인할 수 없으니 복사해둡니다.
